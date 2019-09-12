@@ -1,4 +1,5 @@
 to start project:
 
-npm i
+npm install
+
 parcel index.html
